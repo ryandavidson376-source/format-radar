@@ -1,0 +1,910 @@
+[
+  {
+    "id": "before_after",
+    "name": "Before / After",
+    "category": "Visual",
+    "hook": "Wait until you see the difference.",
+    "steps": [
+      "Show the starting point",
+      "hint at the work",
+      "reveal the result."
+    ],
+    "why": "A clear contrast creates an instant payoff.",
+    "remix": "Show your editing before/after or a room makeover.",
+    "keywords": [
+      "before and after",
+      "before after",
+      "then vs now"
+    ]
+  },
+  {
+    "id": "transformation",
+    "name": "30-Day Transformation",
+    "category": "Storytelling",
+    "hook": "This is what changed in 30 days.",
+    "steps": [
+      "Set a baseline",
+      "show progress milestones",
+      "reveal the ending."
+    ],
+    "why": "Time compression makes progress compelling.",
+    "remix": "Track a skill, physique, or creative project.",
+    "keywords": [
+      "transformation",
+      "glow up",
+      "30 day",
+      "one month progress"
+    ]
+  },
+  {
+    "id": "pov",
+    "name": "POV Scenario",
+    "category": "Entertainment",
+    "hook": "POV: you're in this exact situation.",
+    "steps": [
+      "Establish a role",
+      "act out the recognizable moment",
+      "finish with a twist."
+    ],
+    "why": "Viewers identify themselves in the scene.",
+    "remix": "POV of a beginner at a car meet.",
+    "keywords": [
+      "pov",
+      "point of view"
+    ]
+  },
+  {
+    "id": "storytime",
+    "name": "One-Minute Storytime",
+    "category": "Storytelling",
+    "hook": "I still can't believe this happened.",
+    "steps": [
+      "Open mid-conflict",
+      "give context",
+      "escalate",
+      "land the ending."
+    ],
+    "why": "Narrative tension rewards watching through.",
+    "remix": "Tell the story behind a difficult shoot.",
+    "keywords": [
+      "storytime",
+      "story time",
+      "what happened to me"
+    ]
+  },
+  {
+    "id": "hot_take",
+    "name": "Unpopular Opinion",
+    "category": "Engagement",
+    "hook": "Unpopular opinion: everyone gets this wrong.",
+    "steps": [
+      "State the claim",
+      "justify it",
+      "show an example",
+      "invite debate."
+    ],
+    "why": "A defensible disagreement encourages comments.",
+    "remix": "Challenge a popular fitness or editing tip.",
+    "keywords": [
+      "unpopular opinion",
+      "hot take",
+      "controversial opinion"
+    ]
+  },
+  {
+    "id": "common_mistakes",
+    "name": "Three Common Mistakes",
+    "category": "Education",
+    "hook": "Stop making these three mistakes.",
+    "steps": [
+      "Show mistake one",
+      "explain why",
+      "repeat",
+      "end with the fix."
+    ],
+    "why": "People watch to avoid making a costly error.",
+    "remix": "Show three camera settings new shooters misuse.",
+    "keywords": [
+      "mistakes",
+      "stop doing",
+      "things you're doing wrong"
+    ]
+  },
+  {
+    "id": "quick_tutorial",
+    "name": "60-Second Tutorial",
+    "category": "Education",
+    "hook": "Here's how to do this in under a minute.",
+    "steps": [
+      "Show finished result",
+      "demonstrate steps",
+      "recap."
+    ],
+    "why": "Fast practical utility makes the video saveable.",
+    "remix": "Teach a single Lightroom edit.",
+    "keywords": [
+      "tutorial",
+      "how to",
+      "how-to",
+      "quick tutorial"
+    ]
+  },
+  {
+    "id": "step_by_step",
+    "name": "Step-by-Step Walkthrough",
+    "category": "Education",
+    "hook": "Copy these exact steps.",
+    "steps": [
+      "Define goal",
+      "number each step",
+      "show the finished result."
+    ],
+    "why": "Removes ambiguity and makes the outcome repeatable.",
+    "remix": "Demonstrate a complete pre-shoot checklist.",
+    "keywords": [
+      "step by step",
+      "step-by-step",
+      "walkthrough"
+    ]
+  },
+  {
+    "id": "myth_bust",
+    "name": "Myth vs Fact",
+    "category": "Education",
+    "hook": "You've probably been told this. It's wrong.",
+    "steps": [
+      "Repeat the myth",
+      "contrast evidence",
+      "demonstrate the truth."
+    ],
+    "why": "Corrects a belief with a satisfying reversal.",
+    "remix": "Debunk a camera or nutrition misconception.",
+    "keywords": [
+      "myth",
+      "debunk",
+      "misconception",
+      "fact vs fiction"
+    ]
+  },
+  {
+    "id": "reaction",
+    "name": "Real-Time Reaction",
+    "category": "Entertainment",
+    "hook": "My reaction to seeing this for the first time.",
+    "steps": [
+      "Establish the stimulus",
+      "show genuine reaction",
+      "give the takeaway."
+    ],
+    "why": "Emotion is the center of the story.",
+    "remix": "React to a surprising car build.",
+    "keywords": [
+      "reaction",
+      "reacting",
+      "reacts to"
+    ]
+  },
+  {
+    "id": "stitch_reply",
+    "name": "Stitch / Video Reply",
+    "category": "Engagement",
+    "hook": "This clip needs some context.",
+    "steps": [
+      "Show the original premise",
+      "respond directly",
+      "offer proof."
+    ],
+    "why": "Builds on a familiar conversation.",
+    "remix": "Respond to a controversial car opinion.",
+    "keywords": [
+      "stitch",
+      "duet",
+      "video reply",
+      "responding to"
+    ]
+  },
+  {
+    "id": "ranked_list",
+    "name": "Ranking / Tier List",
+    "category": "Engagement",
+    "hook": "I'm ranking these from worst to best.",
+    "steps": [
+      "Show criteria",
+      "rank quickly",
+      "defend the top pick."
+    ],
+    "why": "Anticipation and disagreement drive watch time.",
+    "remix": "Rank five beginner photography lenses.",
+    "keywords": [
+      "ranking",
+      "tier list",
+      "ranked"
+    ]
+  },
+  {
+    "id": "best_five",
+    "name": "Top Five Picks",
+    "category": "Education",
+    "hook": "These are my five favorites right now.",
+    "steps": [
+      "Show five options",
+      "give one reason each",
+      "identify a winner."
+    ],
+    "why": "Clear curation saves viewer research.",
+    "remix": "Name five affordable photo locations.",
+    "keywords": [
+      "top 5",
+      "top five",
+      "best five",
+      "5 best"
+    ]
+  },
+  {
+    "id": "side_by_side",
+    "name": "Side-by-Side Comparison",
+    "category": "Product",
+    "hook": "Same test. Two very different results.",
+    "steps": [
+      "Control the conditions",
+      "alternate examples",
+      "state the difference."
+    ],
+    "why": "Visual evidence makes comparisons immediate.",
+    "remix": "Compare two editing styles on one shot.",
+    "keywords": [
+      "vs",
+      "versus",
+      "comparison",
+      "compared"
+    ]
+  },
+  {
+    "id": "choose_one",
+    "name": "This or That?",
+    "category": "Engagement",
+    "hook": "You can only pick one.",
+    "steps": [
+      "Show two alternatives",
+      "give a quick distinction",
+      "ask viewers."
+    ],
+    "why": "Low-friction participation prompts replies.",
+    "remix": "Ask viewers to choose between two car edits.",
+    "keywords": [
+      "this or that",
+      "which one",
+      "would you rather"
+    ]
+  },
+  {
+    "id": "blind_test",
+    "name": "Blind Test / Guessing Game",
+    "category": "Engagement",
+    "hook": "Can you guess which one costs more?",
+    "steps": [
+      "Hide the answer",
+      "run the test",
+      "reveal at the end."
+    ],
+    "why": "A curiosity gap keeps the reveal valuable.",
+    "remix": "Compare two lens photos without labels.",
+    "keywords": [
+      "blind test",
+      "guess which",
+      "guess the",
+      "can you guess"
+    ]
+  },
+  {
+    "id": "product_demo",
+    "name": "One-Feature Product Demo",
+    "category": "Product",
+    "hook": "This tiny feature changes everything.",
+    "steps": [
+      "Show the problem",
+      "demonstrate a feature",
+      "show outcome."
+    ],
+    "why": "Specificity beats generic promotion.",
+    "remix": "Show a clever photography accessory.",
+    "keywords": [
+      "demo",
+      "feature test",
+      "product test"
+    ]
+  },
+  {
+    "id": "unboxing",
+    "name": "Unboxing + First Impression",
+    "category": "Product",
+    "hook": "Let's see if this lives up to the hype.",
+    "steps": [
+      "Show packaging",
+      "reveal",
+      "first hands-on reaction",
+      "early verdict."
+    ],
+    "why": "Discovery and product curiosity create a simple arc.",
+    "remix": "Unbox a budget camera accessory.",
+    "keywords": [
+      "unboxing",
+      "unbox",
+      "first impressions"
+    ]
+  },
+  {
+    "id": "honest_review",
+    "name": "No-Hype Review",
+    "category": "Product",
+    "hook": "Here's what nobody told me about this.",
+    "steps": [
+      "Set expectations",
+      "show strengths",
+      "show flaws",
+      "verdict."
+    ],
+    "why": "A balanced judgment builds trust.",
+    "remix": "Review a lens after a week of use.",
+    "keywords": [
+      "honest review",
+      "review",
+      "worth it"
+    ]
+  },
+  {
+    "id": "budget_luxury",
+    "name": "Budget vs Luxury",
+    "category": "Product",
+    "hook": "Does the expensive one actually win?",
+    "steps": [
+      "Introduce two price points",
+      "test fairly",
+      "compare results."
+    ],
+    "why": "Challenges the assumption that price equals quality.",
+    "remix": "Budget lens versus premium lens shots.",
+    "keywords": [
+      "cheap vs expensive",
+      "budget vs luxury",
+      "expensive vs cheap"
+    ]
+  },
+  {
+    "id": "behind_scenes",
+    "name": "Behind the Scenes",
+    "category": "Storytelling",
+    "hook": "Here's what it actually took to make this.",
+    "steps": [
+      "Start with finished output",
+      "rewind to setup",
+      "show decisions."
+    ],
+    "why": "Reveals hidden effort and satisfies curiosity.",
+    "remix": "Show how a car photo was created.",
+    "keywords": [
+      "behind the scenes",
+      "bts",
+      "how i made"
+    ]
+  },
+  {
+    "id": "my_day",
+    "name": "Day in the Life",
+    "category": "Lifestyle",
+    "hook": "A day in my life looks like this.",
+    "steps": [
+      "Start the day",
+      "show varied moments",
+      "finish with reflection."
+    ],
+    "why": "A relatable sequence builds connection.",
+    "remix": "Show a day balancing work and shooting.",
+    "keywords": [
+      "day in my life",
+      "day in the life",
+      "ditl"
+    ]
+  },
+  {
+    "id": "micro_vlog",
+    "name": "Micro Vlog",
+    "category": "Lifestyle",
+    "hook": "Come with me for the next 30 seconds.",
+    "steps": [
+      "Montage small moments",
+      "add text context",
+      "end on highlight."
+    ],
+    "why": "Short personal slices feel effortless to watch.",
+    "remix": "Film one afternoon at a car meet.",
+    "keywords": [
+      "mini vlog",
+      "micro vlog",
+      "vlog"
+    ]
+  },
+  {
+    "id": "morning_routine",
+    "name": "Routine Breakdown",
+    "category": "Lifestyle",
+    "hook": "Here's my current routine.",
+    "steps": [
+      "Show each step",
+      "include timing or tips",
+      "close with result."
+    ],
+    "why": "Routines package practical habits in a repeatable format.",
+    "remix": "Share a pre-work shoot preparation routine.",
+    "keywords": [
+      "routine",
+      "morning routine",
+      "night routine"
+    ]
+  },
+  {
+    "id": "challenge",
+    "name": "Creator Challenge",
+    "category": "Storytelling",
+    "hook": "I tried this challenge so you don't have to.",
+    "steps": [
+      "Define the constraint",
+      "show attempts",
+      "reveal the outcome."
+    ],
+    "why": "A clear goal adds stakes and progression.",
+    "remix": "One lens, one location, ten car shots.",
+    "keywords": [
+      "challenge",
+      "i tried",
+      "24 hours"
+    ]
+  },
+  {
+    "id": "countdown",
+    "name": "Countdown Reveal",
+    "category": "Engagement",
+    "hook": "Number one surprised me.",
+    "steps": [
+      "Introduce a ranked reveal",
+      "count down",
+      "finish on the strongest."
+    ],
+    "why": "Delayed payoff makes the audience continue watching.",
+    "remix": "Count down the best five photos from a shoot.",
+    "keywords": [
+      "countdown",
+      "number one",
+      "#1",
+      "top 10"
+    ]
+  },
+  {
+    "id": "process_timelapse",
+    "name": "Timelapse Process",
+    "category": "Visual",
+    "hook": "Watch the entire process in 20 seconds.",
+    "steps": [
+      "Show setup",
+      "speed up progression",
+      "linger on final result."
+    ],
+    "why": "Compresses an otherwise slow transformation.",
+    "remix": "Timelapse a full editing session.",
+    "keywords": [
+      "timelapse",
+      "time lapse",
+      "speedrun"
+    ]
+  },
+  {
+    "id": "satisfying",
+    "name": "Satisfying Process",
+    "category": "Visual",
+    "hook": "This result is ridiculously satisfying.",
+    "steps": [
+      "Show repetitive process",
+      "keep visuals clean",
+      "reveal completion."
+    ],
+    "why": "Sensory payoff works without much explanation.",
+    "remix": "Show meticulous car detailing or color grading.",
+    "keywords": [
+      "satisfying",
+      "oddly satisfying",
+      "restoration"
+    ]
+  },
+  {
+    "id": "asmr",
+    "name": "ASMR / Sound Detail",
+    "category": "Visual",
+    "hook": "Turn your sound on for this.",
+    "steps": [
+      "Capture crisp tactile sounds",
+      "minimize speech",
+      "end cleanly."
+    ],
+    "why": "Sound and texture create an immersive payoff.",
+    "remix": "Record mechanical clicks and detailing sounds.",
+    "keywords": [
+      "asmr",
+      "no talking",
+      "relaxing sounds"
+    ]
+  },
+  {
+    "id": "seamless_loop",
+    "name": "Seamless Loop",
+    "category": "Visual",
+    "hook": "Watch how the ending connects to the start.",
+    "steps": [
+      "Plan matching opening and closing frames",
+      "cut on action."
+    ],
+    "why": "A seamless ending invites a replay.",
+    "remix": "Loop a car door close into a new angle.",
+    "keywords": [
+      "loop",
+      "seamless loop",
+      "perfect loop"
+    ]
+  },
+  {
+    "id": "cinematic_reveal",
+    "name": "Cinematic Reveal",
+    "category": "Visual",
+    "hook": "Wait for the full reveal.",
+    "steps": [
+      "Start in tight detail",
+      "widen with movement",
+      "reveal the hero shot."
+    ],
+    "why": "Controlled withholding amplifies the reveal.",
+    "remix": "Reveal a car through details before the wide shot.",
+    "keywords": [
+      "cinematic",
+      "reveal",
+      "car edit"
+    ]
+  },
+  {
+    "id": "gear_dump",
+    "name": "What's in My Bag",
+    "category": "Lifestyle",
+    "hook": "Everything I use fits in this bag.",
+    "steps": [
+      "Lay out essentials",
+      "quick reason for each",
+      "show full kit."
+    ],
+    "why": "Viewers borrow ready-made setups.",
+    "remix": "Show your compact camera kit.",
+    "keywords": [
+      "what's in my bag",
+      "edc",
+      "gear list",
+      "my setup"
+    ]
+  },
+  {
+    "id": "beginner_pro",
+    "name": "Beginner vs Pro",
+    "category": "Education",
+    "hook": "Here's the difference experience makes.",
+    "steps": [
+      "Show beginner approach",
+      "contrast expert approach",
+      "explain one lever."
+    ],
+    "why": "Contrast makes the lesson obvious.",
+    "remix": "Same car: novice vs experienced framing.",
+    "keywords": [
+      "beginner vs pro",
+      "beginner vs expert",
+      "amateur vs pro"
+    ]
+  },
+  {
+    "id": "expectation_reality",
+    "name": "Expectation vs Reality",
+    "category": "Entertainment",
+    "hook": "What I expected vs what actually happened.",
+    "steps": [
+      "Show idealized expectation",
+      "hard cut to real outcome."
+    ],
+    "why": "A familiar mismatch creates relatable humor.",
+    "remix": "Expectation vs reality of car photography.",
+    "keywords": [
+      "expectation vs reality",
+      "expectations vs reality"
+    ]
+  },
+  {
+    "id": "relatable_sketch",
+    "name": "Relatable Sketch",
+    "category": "Entertainment",
+    "hook": "You know you're one of us when…",
+    "steps": [
+      "Establish a familiar situation",
+      "exaggerate",
+      "land a punchline."
+    ],
+    "why": "Specific shared frustrations build community.",
+    "remix": "A skit about editing until 2 a.m.",
+    "keywords": [
+      "skit",
+      "sketch",
+      "relatable",
+      "when you"
+    ]
+  },
+  {
+    "id": "meme_remix",
+    "name": "Meme Remix",
+    "category": "Entertainment",
+    "hook": "This meme is painfully accurate.",
+    "steps": [
+      "Start from a recognizable meme structure",
+      "adapt to niche."
+    ],
+    "why": "Recognition lets you communicate quickly.",
+    "remix": "Remix a meme around gear obsession.",
+    "keywords": [
+      "meme",
+      "template",
+      "trend meme"
+    ]
+  },
+  {
+    "id": "trending_audio",
+    "name": "Trending-Audio Interpretation",
+    "category": "Entertainment",
+    "hook": "I had to make my own version of this sound.",
+    "steps": [
+      "Apply a recognizable sound to a niche-specific scenario."
+    ],
+    "why": "Sound familiarity provides an entry point.",
+    "remix": "Apply a popular audio to shoot prep.",
+    "keywords": [
+      "trending sound",
+      "trending audio",
+      "using this sound"
+    ]
+  },
+  {
+    "id": "screen_capture",
+    "name": "Screen Recording Tutorial",
+    "category": "Education",
+    "hook": "Watch me fix this in real time.",
+    "steps": [
+      "Start from the problem screen",
+      "demonstrate clicks",
+      "compare result."
+    ],
+    "why": "On-screen proof reduces friction.",
+    "remix": "Show editing adjustments step by step.",
+    "keywords": [
+      "screen recording",
+      "screen record",
+      "screen tutorial"
+    ]
+  },
+  {
+    "id": "commentary_overlay",
+    "name": "Green-Screen Commentary",
+    "category": "Education",
+    "hook": "We need to talk about this.",
+    "steps": [
+      "Place visual context behind speaker",
+      "explain reaction or lesson."
+    ],
+    "why": "Context stays visible while the creator interprets it.",
+    "remix": "Analyze a photo composition on screen.",
+    "keywords": [
+      "green screen",
+      "greenscreen",
+      "commentary"
+    ]
+  },
+  {
+    "id": "visual_explainer",
+    "name": "Visual Explainer",
+    "category": "Education",
+    "hook": "Here's why this actually happens.",
+    "steps": [
+      "Present a question",
+      "explain with diagrams or examples",
+      "summarize."
+    ],
+    "why": "Simplifies complex ideas with visible scaffolding.",
+    "remix": "Explain why a polarizer changes reflections.",
+    "keywords": [
+      "explained",
+      "how it works",
+      "visual explanation"
+    ]
+  },
+  {
+    "id": "surprising_fact",
+    "name": "Surprising Fact",
+    "category": "Education",
+    "hook": "This sounds fake, but it's real.",
+    "steps": [
+      "State counterintuitive fact",
+      "provide context",
+      "give source or proof."
+    ],
+    "why": "A surprising fact creates a knowledge gap.",
+    "remix": "Explain an unexpected automotive fact.",
+    "keywords": [
+      "did you know",
+      "fun fact",
+      "interesting fact"
+    ]
+  },
+  {
+    "id": "quiz",
+    "name": "Three-Second Quiz",
+    "category": "Engagement",
+    "hook": "You've got three seconds to answer.",
+    "steps": [
+      "Ask question",
+      "pause",
+      "reveal answer",
+      "quick explanation."
+    ],
+    "why": "The viewer participates instead of passively watching.",
+    "remix": "Guess the camera focal length from a photo.",
+    "keywords": [
+      "quiz",
+      "trivia",
+      "test your knowledge"
+    ]
+  },
+  {
+    "id": "street_interview",
+    "name": "Street Interview",
+    "category": "Engagement",
+    "hook": "I asked strangers one question.",
+    "steps": [
+      "Ask the same concise question",
+      "collect quick contrasting answers."
+    ],
+    "why": "Unscripted responses create social curiosity.",
+    "remix": "Ask enthusiasts their dream car.",
+    "keywords": [
+      "street interview",
+      "asking strangers",
+      "interview"
+    ]
+  },
+  {
+    "id": "qa",
+    "name": "Rapid-Fire Q&A",
+    "category": "Education",
+    "hook": "Answering your most-asked questions.",
+    "steps": [
+      "Read a question",
+      "answer directly",
+      "repeat for several."
+    ],
+    "why": "Useful answers accumulate into a high-value clip.",
+    "remix": "Answer photography questions in rapid succession.",
+    "keywords": [
+      "q&a",
+      "questions answered",
+      "answering questions"
+    ]
+  },
+  {
+    "id": "comment_reply",
+    "name": "Comment-to-Video Reply",
+    "category": "Engagement",
+    "hook": "Someone asked me this, so here's the answer.",
+    "steps": [
+      "Show a viewer question",
+      "demonstrate response",
+      "invite next request."
+    ],
+    "why": "Turns the audience into a content engine.",
+    "remix": "Answer a follower's camera question.",
+    "keywords": [
+      "replying to",
+      "comment asked",
+      "you asked"
+    ]
+  },
+  {
+    "id": "client_result",
+    "name": "Client Result Story",
+    "category": "Storytelling",
+    "hook": "Here's what we delivered and how.",
+    "steps": [
+      "Introduce goal",
+      "show process",
+      "present result and constraint."
+    ],
+    "why": "Concrete outcomes build credibility.",
+    "remix": "Tell the story of a successful car shoot.",
+    "keywords": [
+      "client result",
+      "case study",
+      "customer result"
+    ]
+  },
+  {
+    "id": "voiceover_breakdown",
+    "name": "Voiceover Breakdown",
+    "category": "Education",
+    "hook": "Here's exactly what you're seeing.",
+    "steps": [
+      "Play footage",
+      "narrate key decisions",
+      "end with takeaway."
+    ],
+    "why": "Explanation adds meaning to ordinary footage.",
+    "remix": "Narrate how you composed a car shot.",
+    "keywords": [
+      "voiceover",
+      "breakdown",
+      "voice over"
+    ]
+  },
+  {
+    "id": "text_only_story",
+    "name": "Text-on-Screen Story",
+    "category": "Storytelling",
+    "hook": "Read this before the clip ends.",
+    "steps": [
+      "Use captivating first caption",
+      "reveal next beats visually",
+      "close."
+    ],
+    "why": "Silent-friendly captions create a reading loop.",
+    "remix": "Tell a short shoot mishap over B-roll.",
+    "keywords": [
+      "text on screen",
+      "caption story",
+      "read this"
+    ]
+  },
+  {
+    "id": "one_tip",
+    "name": "One Tip That Helps",
+    "category": "Education",
+    "hook": "One tiny change that makes a huge difference.",
+    "steps": [
+      "Show before",
+      "give one actionable tip",
+      "show after."
+    ],
+    "why": "Low cognitive load makes advice usable.",
+    "remix": "Share one camera framing tip.",
+    "keywords": [
+      "one tip",
+      "quick tip",
+      "pro tip",
+      "small trick"
+    ]
+  },
+  {
+    "id": "life_hack",
+    "name": "Unexpected Hack",
+    "category": "Education",
+    "hook": "I wish I'd learned this sooner.",
+    "steps": [
+      "Demonstrate an unusual shortcut",
+      "verify result",
+      "note limitations."
+    ],
+    "why": "Novel usefulness encourages saves.",
+    "remix": "Show a useful photography gear hack.",
+    "keywords": [
+      "life hack",
+      "hack",
+      "shortcut"
+    ]
+  }
+]
